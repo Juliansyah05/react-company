@@ -1,13 +1,13 @@
 {
-  "name": "architectui-react-theme-free",
+  "name": "react-company",
   "version": "2.0.0",
   "homepage": "https://demo.dashboardpack.com/architectui-react-pro",
   "private": true,
-  "description": "ArchitectUI - Bootstrap 5 ReactJS Admin Dashboard Template FREE",
-  "author": "DashboardPack.com",
+  "description": "Bootstrap 5 ReactJS Admin Dashboard Adam",
+  "author": "ademscil",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DashboardPack/architectui-react-theme-free"
+    "url": "git+https://https://github.com/Juliansyah05/react-company"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.0.0",
